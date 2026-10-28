@@ -1,16 +1,27 @@
-## Hi there 👋
+# ✨Sobre mi✨
+Soc **Paula Ouro**. Una estudiant de Grau Superior de **DAW** (***Desenvolupament d'Aplicacions Web***).
 
-<!--
-**P-OURO/P-OURO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✔️ M'agrada
+1. La música
+2. Els videojocs
+3. El cinema
 
-Here are some ideas to get you started:
+## ❌ No m'agrada
+- Programar al meu temps lliure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tecnologies 💻
+- **HTML**
+- **SCSS / CSS**
+- **C#**
+- **Python**
+- **SQL**
+
+# Projectes destacats
+[Projecte Bootstrap](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-frontend-p-ouro)\
+Aquest projecte és un conjunt d'exercicis per a practicar **Bootstrap 5.3.3**. Per a fer els exercicis s'hauria de partir desde el commit "*Initial commit*".
+
+[Projecte Markdown de Pacman](https://github.com/jmirinformatica-classroom50/pacman-git)\
+Aquest projecte és una activitat on l'objectiu era fer una petita Wiki de ***Pacman*** fent servir **Markdown**.
+
+# 📧 Contacte 📧
+Si vols contactar amb mi, pots enviar un missatge via [*email*](pouro@insjoaquimmir.cat).
