@@ -13,13 +13,13 @@ Soc **Paula Ouro**. Una estudiant de Grau Superior de **DAW** (***Desenvolupamen
 ![Estadístiques de GitHub de Paula Ouro](https://github-stats-extended.vercel.app/api?username=P-OURO&show_icons=true&theme=synthwave)
 
 # 💻 Tecnologies 💻
-- **HTML**
-- **SCSS / CSS**
-- **C#**
-- **Python**
-- **SQL**
+- ![HTML](https://img.shields.io/badge/HTML-FF7518)
+- ![CSS / SCSS](https://img.shields.io/badge/CSS/SCSS-00E3FF)
+- ![C#](https://img.shields.io/badge/C%23-B100B1)
+- ![Python](https://img.shields.io/badge/Python-2D68C4)
+- ![SQL](https://img.shields.io/badge/SQL-FFD331)
 
-# Projectes destacats a ![Badge Paula](https://img.shields.io/badge/Repositori-POURO-github?style=for-the-badge&logo=github&color=FF8DA8)(https://github.com/P-OURO)
+# Projectes destacats a [![Badge de repositori Github Paula](https://img.shields.io/badge/Repositori-POURO-github?style=for-the-badge&logo=github&color=FF8DA8)](https://github.com/P-OURO)
 
 [Projecte Bootstrap](https://github.com/jmirinformatica-classroom50/daw-1b-tallers-frontend-p-ouro)\
 Aquest projecte és un conjunt d'exercicis per a practicar **Bootstrap 5.3.3**. Per a fer els exercicis s'hauria de partir desde el commit "*Initial commit*".
